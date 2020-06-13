@@ -1,0 +1,178 @@
+body {
+	margin: 0px;
+}
+
+#list {
+	float: right;
+}
+
+ul {
+	list-style: none;
+	padding: 0px;
+	text-align: right;
+}
+
+a {
+	text-decoration: none;
+	color: rgba(0, 0, 0, 0.801);
+}
+
+li {
+	display: inline;
+	padding-left: 35px;
+	font-size: 15px;
+	text-transform: capitalize;
+	font-family: 'Roboto Condensed';
+}
+
+.center {
+	width: 1000px;
+	margin: auto;
+}
+
+body {
+	margin: 0px;
+}
+
+.header {
+	box-sizing: border-box;
+	box-shadow: 0px 1px 1px rgba(88, 88, 88, 0.322);
+	height: 50px;
+}
+
+#logo {
+	margin-top: 6px;
+}
+
+#main-p {
+	text-align: center;
+}
+
+#para1 {
+	font-size: 40px;
+	font-family: 'Source Sans Pro';
+	margin-bottom: 20px;
+	color: rgb(3, 2, 63);
+}
+
+#main-span {
+	color: rgb(24, 123, 253);
+	font-family: 'Ubuntu';
+}
+
+#sub-p {
+	font-family: 'Slabo 27px';
+	font-size: 12px;
+	color: rgba(10, 10, 10, 0.76);
+}
+
+#image {
+	text-align: center;
+}
+
+#img2 {
+	margin: auto;
+	height: 500px;
+	width: 500px;
+	margin-left: 40px;
+}
+
+.content {
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+
+.left-content {
+	width: 480px;
+	text-align: right;
+	float: left;
+}
+
+.right-content {
+	width: 490px;
+	text-align: left;
+	float: right;
+}
+
+h1 {
+	color: rgb(252, 84, 84);
+	font-family: 'Source Sans Pro';
+	font-size: 40px;
+	margin-bottom: 20px;
+	font-weight: bolder;
+}
+
+#para2 {
+	margin: 0px;
+	font-family: 'Slabo 27px';
+	color: rgb(110, 105, 105);
+	font-size: small;
+	line-height: 1.8;
+}
+
+#para3 {
+	color: rgb(3, 2, 63);
+	font-family: 'Source Sans Pro';
+	line-height: normal;
+	line-height: 1.1;
+}
+
+.gallery {
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	width: 800px;
+}
+
+.common {
+	width: 250px;
+	margin: 35px 6px;
+	height: 290px;
+	border-radius: 3px;
+	box-shadow: 2px 2px 8px rgb(206, 205, 205);
+}
+
+.position {
+	width: 180px;
+	height: 150px;
+	margin-top: 0px;
+}
+
+.pic {
+	text-align: center;
+}
+
+.first {
+	float: left;
+	background-color: rgba(255, 0, 0, 0.1);
+}
+
+.second {
+	background-color: rgba(0, 255, 0, 0.2);
+	float: left;
+}
+
+.third {
+	float: left;
+	background-color: rgb(245, 236, 153, 0.7);
+}
+
+.section {
+	text-align: left;
+	padding-left: 15px;
+}
+
+.text {
+	margin-top: 13px;
+	font-family: 'Source Sans Pro';
+	color: rgb(3, 2, 63);
+}
+
+.sub-text {
+	font-family: 'Slabo 27px';
+	color: rgb(110, 105, 105);
+	font-size: small;
+	line-height: 1.5;
+}
